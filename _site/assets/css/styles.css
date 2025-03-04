@@ -6,6 +6,10 @@
   font-family: "PressStart2P";
   src: url("../fonts/press-start-2p/PressStart2P.ttf");
 }
+@font-face {
+  font-family: "Magneto";
+  src: url("../fonts/MAGNETOB.ttf");
+}
 html {
   background: #000000;
   color: #fefefe;
@@ -23,6 +27,17 @@ body {
   margin: 0px;
   padding: 0px;
   width: 100%;
+}
+
+.spacereviews {
+  font-family: "Magneto", "PressStart2P", "Brush Script MT", cursive;
+  font-size: 11vw;
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  align-self: stretch;
+  vertical-align: middle;
 }
 
 p {
