@@ -6,11 +6,11 @@ layout: default
 	{{ page.post_title }}
 </h1>
 
-<p>
+<p class="byline">
 	{{ page.date | date_to_string }}
 	{% assign author = site.authors | where: 'short_name', page.author | first %}
 	{% if author %}
-		- <a href="{{ author.url }}">{{ author.name }}</a>
+		// <a href="{{ author.url }}">{{ author.name }}</a>
 	{% endif %}
 </p>
 
