@@ -1,4 +1,4 @@
-url: "https://keshetkaridi.github.io/spacereviews/" # the base hostname & protocol for your site
+#url: "https://keshetkaridi.github.io/spacereviews/" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
   - jekyll-feed

@@ -4,7 +4,7 @@ excerpt_separator: <!--tldr-->
 author: kid
 ---
 
-I highly recommend Flat Mountain to any coffee connoisseurs, as well as anyone looking for a good space in the area to meet up with friends, have a casual meeting, or do some remote work. However, if you’re looking for an opulent space and a big meal, this might not be the one for you.
+tl;dr: I highly recommend Flat Mountain to any coffee connoisseurs, as well as anyone looking for a good space in the area to meet up with friends, have a casual meeting, or do some remote work. However, if you’re looking for an opulent space and a big meal, this might not be the one for you.
 
 <!--tldr-->
 
