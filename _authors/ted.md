@@ -1,6 +1,6 @@
 ---
-short_name: ted
-name: Ted Doe
+short_name: ntando
+name: Ntando Bam
 position: Writer
 ---
-Ted has been eating fruit since he was baby. (allegedly)
+Ntando has been taking up space since he was baby.
