@@ -8,8 +8,6 @@ I highly recommend Flat Mountain to any coffee connoisseurs, as well as anyone l
 
 <!--tldr-->
 
-<h1>Flat Mountain Coffee Ritualists</h1>
-
 Flat Mountain Coffee Ritualists in Woodstock is one of my favourite spaces for a coffee and a light lunch. Their prices are very reasonable especially considering the quality, and they offer a lovely discount when you order food and a drink. The food is mostly “health food” style (think Kauai), and often contains bacon or is reliant on the meat aspect to be filling. As such, Keshet (pescatarian) and Ntando (prefers burgers over quinoa) were not 100% satisfied with the food options.
 
 As a specialty coffee roastery and café, they have brilliant coffee even to the connoisseur and they offer specialty brews. Their smoothies are fantastic - try the cocoa coffee~ or the strawberry matcha smoothie. Even my mom ordered herself a second smoothie when we visited together, which is something I’d never seen her do! For the matcha lovers, their matcha is quite meek and might be more accurately described as a vanilla steamer with a hint of matcha. Regardless, I order it every time - it’s a tasty vanilla steamer!

@@ -8,8 +8,6 @@ No fruit truly encapsulates the ups and downs of life like the grapefruit.
 
 <!--tldr-->
 
-<h1>On Life and Grapefruits</h1>
-
 Grapefruits: no fruit truly encapsulates the ups and downs of life like the grapefruit.
 
 Fun memories of the grapefruit include sitting on the stoep at my Oupa's house in my home town of Swellendam. Getting through the grapefruit peel is a task unto itself; getting through it while maintaining the integrity of the segment is an even more significant task.
