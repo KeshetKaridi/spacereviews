@@ -1,18 +1,3 @@
-@font-face {
-  font-family: "MonoAlphabet";
-  src: url("../fonts/mono-alphabet-font/MonoalphabetRegular-OMvP.ttf");
-}
-
-@font-face {
-  font-family: "PressStart2P";
-  src: url("../fonts/press-start-2p/PressStart2P.ttf");
-}
-
-@font-face {
-  font-family: "Magneto";
-  src: url("../fonts/MAGNETOB.ttf");
-}
-
 html {
   background: #000000;
   color: #fefefe;
@@ -23,7 +8,7 @@ html {
   margin-bottom: 15px;
   padding: 0px;
   font-size: 100%;
-  font-family: "PressStart2P", monospace;
+  font-family: monospace;
 }
 
 body {
@@ -33,7 +18,7 @@ body {
 }
 
 .spacereviews {
-  font-family: "Magneto", "PressStart2P", 'Brush Script MT', cursive;
+  font-family:'Brush Script MT', cursive;
   font-size: 11vw;
   z-index: -1;
   height: 100%;
