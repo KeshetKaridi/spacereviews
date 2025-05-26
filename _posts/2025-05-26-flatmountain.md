@@ -1,6 +1,6 @@
 ---
 post_title: Flat Mountain Coffee Ritualists
-tldr: I highly recommend Flat Mountain to any coffee connoisseurs, as well as anyone looking for a good space in the area to meet up with friends, have a casual meeting, or do some remote work. However, if you’re looking for an opulent space and a big meal, this might not be the one for you.
+excerpt_separator: <!--tldr-->
 author: kid
 ---
 
@@ -15,5 +15,9 @@ Stylishly decorated with mid-century modern furniture, Flat Mountain serves as a
 <h3>Retail</h3>
 
 Their carefully roasted and ethically sourced coffee beans are available to buy at very good prices for the quality of the product, and these are the beans Keshet and I use 99% of the time at home. They have a range of beans suitable for various preferences and brewing methods, and are more than happy to offer information and advice about what would work best for you. They of course offer to grind the beans for you if you don’t have a coffee grinder at home. We have tried almost all of their varieties and have always been happy! We usually favour a single origin Ethiopian bean with a more fruity flavour profile for pourover, but we also keep in stock a darker roast (look for flavour notes like “dark chocolate” or “tobacco”) for our strong-espresso-loving friends.
+
+I highly recommend Flat Mountain to any coffee connoisseurs, as well as anyone looking for a good space in the area to meet up with friends, have a casual meeting, or do some remote work. However, if you’re looking for an opulent space and a big meal, this might not be the one for you.
+
+<!--tldr-->
 
 I highly recommend Flat Mountain to any coffee connoisseurs, as well as anyone looking for a good space in the area to meet up with friends, have a casual meeting, or do some remote work. However, if you’re looking for an opulent space and a big meal, this might not be the one for you.
