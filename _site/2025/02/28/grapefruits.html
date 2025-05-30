@@ -25,7 +25,25 @@
 
   </head>
   <body>
-    <nav>
+    <!-- HTML search field -->
+<div id="search-container">
+<input type="text" id="search-input" placeholder="Search" autofocus>
+<ul id="results-container"></ul>
+</div>
+
+<!-- Grab search-script.js -->
+<script src="/assets/js/search-script.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json',
+  searchResultTemplate: '<li><a href="{url}">{post_title}</a><br><span class="post-meta">{date}</span></li>'
+})
+</script>
+    <nav id="navigation-buttons">
   
   <a href="/"> Reviews </a>
   
@@ -36,11 +54,12 @@
 	On Life and Grapefruits
 </h1>
 
-<p class="byline">
+<p id="byline">
+	written by 
+	
+		<a href="/authors/keshet.html">Keshet Karidi</a>
+	 on 
 	28 Feb 2025
-	
-	
-		// <a href="/authors/keshet.html">Keshet Karidi</a>
 	
 </p>
 

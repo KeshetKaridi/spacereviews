@@ -21,14 +21,32 @@
 
   </head>
   <body>
-    <nav>
+    <!-- HTML search field -->
+<div id="search-container">
+<input type="text" id="search-input" placeholder="Search" autofocus>
+<ul id="results-container"></ul>
+</div>
+
+<!-- Grab search-script.js -->
+<script src="/assets/js/search-script.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json',
+  searchResultTemplate: '<li><a href="{url}">{post_title}</a><br><span class="post-meta">{date}</span></li>'
+})
+</script>
+    <nav id="navigation-buttons">
   
   <a href="/" class="current"> Reviews </a>
   
   <a href="/reviewers.html"> Reviewers </a>
   
 </nav>
-    <h1>Space Reviews</h1>
+    <h1 id="site-title">Space Reviews</h1>
 
 <ul>
   
@@ -37,7 +55,7 @@
       <p>This review has not yet been written</p>
 
 
-      <a class="readmore" href="/2025/05/26/oumeul.html">read more</a>
+      <a id="readmore" href="/2025/05/26/oumeul.html">read more</a>
     </li>
   
     <li>
@@ -45,7 +63,7 @@
       <p>Flat Mountain Coffee Ritualists in Woodstock is one of my favourite spaces for a coffee and a light lunch. Their prices are very reasonable especially considering the quality, and they offer a lovely discount when you order food and a drink. The food is mostly “health food” style (think Kauai), and often contains bacon or is reliant on the meat aspect to be filling. As such, Keshet (pescatarian) and Ntando (prefers burgers over quinoa) were not 100% satisfied with the food options.</p>
 
 
-      <a class="readmore" href="/2025/05/26/flatmountain.html">read more</a>
+      <a id="readmore" href="/2025/05/26/flatmountain.html">read more</a>
     </li>
   
     <li>
@@ -53,7 +71,7 @@
       <p>No fruit truly encapsulates the ups and downs of life like the grapefruit.</p>
 
 
-      <a class="readmore" href="/2025/02/28/grapefruits.html">read more</a>
+      <a id="readmore" href="/2025/02/28/grapefruits.html">read more</a>
     </li>
   
     <li>
@@ -61,7 +79,7 @@
       <p>I like bananas.</p>
 
 
-      <a class="readmore" href="/2025/02/28/bananas.html">read more</a>
+      <a id="readmore" href="/2025/02/28/bananas.html">read more</a>
     </li>
   
 </ul>
