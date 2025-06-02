@@ -42,6 +42,18 @@ p {
   margin-inline-end: 0px;
 }
 
+img {
+  max-width: 100%;
+}
+
+figure {
+display: block;
+margin-block-start: 0.5em;
+margin-block-end: 0.5em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+}
+
 a {
   color: inherit;
   text-decoration: none;
@@ -223,6 +235,42 @@ span.post-meta {
 
 //HOME PAGE//
 
+.image-container-li {
+  position: relative;
+  display: inline-block;
+  background-color: white;
+}
+
+.image-container-li img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.image-container-li:hover > img {
+  display: block;
+  width: 100%;
+  height: auto;
+  filter: blur(2px) opacity(50%);
+}
+
+.overlay-text {
+  display: none;
+}
+
+.image-container-li:hover > .overlay-text {
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+}
+
+#post-heading:hover {
+  text-decoration: underline;
+}
+
 #site-title {
   //nothing needed yet
 }
@@ -238,4 +286,7 @@ span.post-meta {
   font-size: 0.7em;
   margin-block-start: 0em;
   margin-block-end: 2em;
+}
+
+#these-images {
 }

@@ -2,6 +2,7 @@
 post_title: On Life and Grapefruits
 excerpt_separator: <!--tldr-->
 author: keshet
+image: /assets/images/2025-02-28-grapefruits/grapefruit.jpg
 ---
 
 No fruit truly encapsulates the ups and downs of life like the grapefruit.

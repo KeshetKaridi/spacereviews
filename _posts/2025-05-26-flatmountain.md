@@ -2,17 +2,32 @@
 post_title: Flat Mountain Coffee Ritualists
 excerpt_separator: <!--tldr-->
 author: kid
+image: /assets/images/2025-05-26-flatmountain/flatmountain.jpg
 ---
 
-Flat Mountain Coffee Ritualists in Woodstock is one of my favourite spaces for a coffee and a light lunch. Their prices are very reasonable especially considering the quality, and they offer a lovely discount when you order food and a drink. The food is mostly “health food” style (think Kauai), and often contains bacon or is reliant on the meat aspect to be filling. As such, Keshet (pescatarian) and Ntando (prefers burgers over quinoa) were not 100% satisfied with the food options.
+This specialty coffee roastery and café serves as an unexpectedly calm haven amidst the chaos of Woodstock Main Road. 
 
 <!--tldr-->
 
-As a specialty coffee roastery and café, they have brilliant coffee even to the connoisseur and they offer specialty brews. Their smoothies are fantastic - try the cocoa coffee~ or the strawberry matcha smoothie. Even my mom ordered herself a second smoothie when we visited together, which is something I’d never seen her do! For the matcha lovers, their matcha is quite meek and might be more accurately described as a vanilla steamer with a hint of matcha. Regardless, I order it every time - it’s a tasty vanilla steamer!
+<figure>
+    <img src="/assets/images/2025-05-26-flatmountain/flatmountain.jpg"
+         alt="Flat Mountain Coffee Ritualists">
+    <figcaption>Cute windows!</figcaption>
+</figure>
 
-Stylishly decorated with mid-century modern furniture, Flat Mountain serves as an unexpectedly calm haven amidst the chaos of Woodstock Main Road. The furniture achieves a careful balance of modern, practical and clean coffee tables and chairs, with some more rough-around-the-edges eclectic pieces that foster a unique atmosphere. Flat Mountain roasts their beans in the café, which naturally leads to some noise when they are busy roasting. This can add to the ambience, but for those who want more peace and quiet, there are some areas such as upstairs that are a little sheltered from the noise. The roaster is often not in active use, so this is not always a concern.
+Flat Mountain is one of my favourite spaces to go for a coffee and a light lunch. These guys really know what they are doing when it comes to coffee! The espresso is beautifully balanced, with a lot of flavour but not overly bitter or burnt. Their milk is always steamed to perfection, giving the coffee that lovely smooth and creamy texture.
+
+They offer all sorts of drinks, hot and cold - I would highly recommend giving their cocoa coffee or strawberry matcha smoothies a try. In terms of food, both Keshet and Ntando struggled to find something to order. I thought their menu was just perfect, but I guess it's not for everyone. Consider giving the menu a read to see if it suits your style.
+
+Stylishly decorated with mid-century modern decor, Flat Mountain is a charming spot for a casual meeting or to spend a few hours doing some remote work. They have great taste in music, and have clearly put some thought into sound insulation as it is never too loud to chat despite it being a roastery on a busy street.
+
+<p id="these-images">
+<img src="/assets/images/2025-05-26-flatmountain/flatmountain_drinks.jpg" width="45%">
+<img src="/assets/images/2025-05-26-flatmountain/flatmountain_retail.jpg" width="45%">
+</p>
 
 **Retail**:
-Their carefully roasted and ethically sourced coffee beans are available to buy at very good prices for the quality of the product, and these are the beans Keshet and I use 99% of the time at home. They have a range of beans suitable for various preferences and brewing methods, and are more than happy to offer information and advice about what would work best for you. They of course offer to grind the beans for you if you don’t have a coffee grinder at home. We have tried almost all of their varieties and have always been happy! We usually favour a single origin Ethiopian bean with a more fruity flavour profile for pourover, but we also keep in stock a darker roast (look for flavour notes like “dark chocolate” or “tobacco”) for our strong-espresso-loving friends.
+Their carefully roasted and ethically sourced coffee beans are available to buy at very good prices for the quality of the product, and these are the beans Keshet and I use 99% of the time at home. They have a wide range of beans suitable for various preferences and brewing methods, and are more than happy to offer information and advice about what would work best for you. We usually favour a single origin Ethiopian bean with a more fruity flavour profile for pourover, but we also keep in stock a darker roast (look for flavour notes like “dark chocolate” or “tobacco”) for our strong-espresso-loving friends.
+They are the only place in the area to stock the Specialty Coffee Magazine, so I  at least once a quarter to pick up the latest copy.
 
-I highly recommend Flat Mountain to any coffee connoisseurs, as well as anyone looking for a good space in the area to meet up with friends, have a casual meeting, or do some remote work. However, if you’re looking for an opulent space and a big meal, this might not be the one for you.
+I highly recommend Flat Mountain to any coffee connoisseurs, as well as anyone looking for a good space in the area to meet up with friends, have a casual meeting, or do some remote work.
