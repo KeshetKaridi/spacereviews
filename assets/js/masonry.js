@@ -1,7 +1,7 @@
 function resizeGridItem(item){
    grid = document.getElementsByClassName("grid")[0];
    rowHeight = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-auto-rows'));
-   rowGap = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-row-gap'));
+   rowGap = parseInt(window.getComputedStyle(grid).getPropertyValue('row-gap'));
    rowSpan = Math.ceil((item.querySelector('.content').getBoundingClientRect().height+rowGap)/(rowHeight+rowGap));
    item.style.gridRowEnd = "span "+rowSpan;
 }
@@ -13,7 +13,7 @@ function resizeAllGridItems(){
    }
 }
 
-window.onload = resizeAllGridItems();
+window.addEventListener('load', resizeAllGridItems);
 
 window.addEventListener("resize", resizeAllGridItems);
 
