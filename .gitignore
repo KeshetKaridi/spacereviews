@@ -16,9 +16,6 @@
 *_LOCAL_*.txt
 *_REMOTE_*.txt
 
-### Don't update rubyversion ###
-.ruby-version
-
 ### Jekyll ###
 _site/
 Gemfile.lock
