@@ -7,6 +7,8 @@ function resizeGridItem(item){
 }
 
 function resizeAllGridItems(){
+   var width = window.innerWidth
+   if (width <= 500) return
    allItems = document.getElementsByClassName("item");
    for(x=0;x<allItems.length;x++){
       resizeGridItem(allItems[x]);
