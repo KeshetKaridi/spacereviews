@@ -28,6 +28,7 @@ body {
   margin: auto;
   max-width: 800px;
   display: block;
+  background-color: pink;
 }
 
 address, article, aside, div, footer, header, hgroup, main, nav, section {
@@ -235,44 +236,21 @@ span.post-meta {
 
 //HOME PAGE//
 
-.image-container-li {
-  position: relative;
-  display: inline-block;
-  background-color: white;
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-gap: 10px;
+  grid-auto-rows: 30px;
 }
 
-.image-container-li img {
-  display: block;
-  width: 100%;
-  height: auto;
+.item {
+  background-color: transparent;
 }
 
-.image-container-li:hover > img {
-  display: block;
-  width: 100%;
-  height: auto;
-  filter: blur(2px) opacity(50%);
-}
-
-.overlay-text {
-  display: none;
-}
-
-.image-container-li:hover > .overlay-text {
-  display: block;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: black;
-}
-
-#post-heading:hover {
-  text-decoration: underline;
+.content {
 }
 
 #site-title {
-  //nothing needed yet
 }
 
 #readmore {

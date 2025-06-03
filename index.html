@@ -1,27 +1,25 @@
 ---
 title: Reviews
+layout: default
 ---
 
 <h1 id="site-title">Space Reviews</h1>
 
-<ul>
+<div class="grid">
 
   {% for post in site.posts %}
 
-    <a href="{{ post.url }}"><li class="image-container-li">
+  <div class="item">
+
+    <div class="content">
+
+      <h3 id="post-heading">{{ post.post_title }}</h3>
 
       <img src="{{ post.image | relative_url }}">
 
-      <div class="overlay-text">
-
-        <h3 id="post-heading">{{ post.post_title }}</h3>
-
-        {{ post.excerpt }}
-
-      </div>
-
-    </li></a>
+    </div>
+  </div>
 
   {% endfor %}
 
-</ul>
+</div>
