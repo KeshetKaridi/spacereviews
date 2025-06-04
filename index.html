@@ -2,24 +2,14 @@
 title: Reviews
 layout: default
 ---
-
 <h1 class="bigboi">Space Reviews</h1>
-
 <div class="grid">
-
   {% for post in site.posts %}
-
   <a class="item" href="{{ post.url }}">
-
     <div class="content">
-
       <h3>{{ post.post_title }}</h3>
-
-      <img src="{{ post.image | relative_url }}">
-
+      <img src="{{ post.image }}">
     </div>
   </a>
-
   {% endfor %}
-
 </div>
