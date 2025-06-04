@@ -2,15 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/authors/keshet.html</loc>
-<lastmod>2025-06-04T23:02:12+02:00</lastmod>
+<lastmod>2025-06-04T23:39:42+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/authors/kid.html</loc>
-<lastmod>2025-06-04T23:02:12+02:00</lastmod>
+<lastmod>2025-06-04T23:39:42+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/authors/ntando.html</loc>
-<lastmod>2025-06-04T23:02:12+02:00</lastmod>
+<lastmod>2025-06-04T23:39:42+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/2025/02/28/bananas.html</loc>
@@ -33,9 +33,5 @@
 </url>
 <url>
 <loc>http://localhost:4000/reviewers.html</loc>
-</url>
-<url>
-<loc>http://localhost:4000/assets/js/particles.js/demo/</loc>
-<lastmod>2025-05-29T17:16:59+02:00</lastmod>
 </url>
 </urlset>
